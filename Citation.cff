@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: "Seifert"
+  given-names: "Maximilian"
+title: "Student Project - Convolution on S2"
+date-released: 2023-06-30
+url: "https://github.com/data507/Student-Project---Convolution-on-S2"
